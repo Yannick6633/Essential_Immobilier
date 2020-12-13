@@ -2,7 +2,21 @@
 
 # Essential Immobilier
 
-### Examen d'évaluation NodeJS
+### Examen d'évaluation NodeJS / Sequelize ORM
+
+## Install Project
+    . npm init
+    . npm install express
+    . npm install cors
+    . npm install nodemon -g --save
+
+## https://sequelize.org/ install Sequelize ORM
+    . npm install --save sequelize
+    . npm install --save mysql2
+    . npm install --save sequelize-cli
+
+### Initilisation
+    . npx sequelize init
 
 
 
